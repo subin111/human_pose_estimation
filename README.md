@@ -20,4 +20,21 @@
 
   * 배구 사진 결과
 
+    ![image](https://github.com/subin111/human_pose_estimation/assets/143717650/8d45f7e2-db4f-408a-b05e-5ac9f71b1e2c)
+
+    ![image](https://github.com/subin111/human_pose_estimation/assets/143717650/a797ef18-8ff2-4641-a8d0-6fd86853b143)
+
+    ![image](https://github.com/subin111/human_pose_estimation/assets/143717650/ded12583-2a09-4b50-9449-e5d1ab676d08)
+
+    ![image](https://github.com/subin111/human_pose_estimation/assets/143717650/a45ce7e0-54c6-47d3-b475-5c1ee1a7a8db)
+
+    ![image](https://github.com/subin111/human_pose_estimation/assets/143717650/0d5222cd-27f7-4caf-92c5-cb1c2a5e1109)
+
+
+
+
+
+
+    
+
     
