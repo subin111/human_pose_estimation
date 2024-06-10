@@ -1,4 +1,4 @@
-# human_pose_estimation
+# make_pictogram_human-pose-estimation
 
 * 축구 사진 결과
   
