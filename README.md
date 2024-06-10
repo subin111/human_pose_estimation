@@ -30,6 +30,15 @@
 
     ![image](https://github.com/subin111/human_pose_estimation/assets/143717650/0d5222cd-27f7-4caf-92c5-cb1c2a5e1109)
 
+    ![image](https://github.com/subin111/human_pose_estimation/assets/143717650/74c88d34-949c-4aed-9825-67171f4c7864)
+
+    ![image](https://github.com/subin111/human_pose_estimation/assets/143717650/46f85b24-74e1-4d05-af28-5222c65743a6)
+
+    ![image](https://github.com/subin111/human_pose_estimation/assets/143717650/c47cbd6c-732b-4b88-9857-5549588ec874)
+
+
+
+
 
 
 
