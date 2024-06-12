@@ -2,7 +2,7 @@
 
 googlenet, openpose 모델 활용 MATLAB 예제 코드에 추가적으로 영상처리 코드 개발
 
-|  | 멀티미디어신호처리 기말 1인 프로젝트 |
+|  | 멀티미디어신호처리 기말 1인 프로젝트 | 
 | --- | --- |
 | 제목 |Matlab Deep Learning & Computer Vision ToolBox를 활용한 pictogram maker |
 |학번/이름|C015143 / 이수빈 |
