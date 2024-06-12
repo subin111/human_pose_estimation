@@ -1,5 +1,9 @@
 # make_pictogram_human-pose-estimation
 
+googlenet, openpose 모델 활용 및 영상처리 코드 개발
+
+## 결과
+  
 * 축구 사진 결과
   
 ![image](https://github.com/subin111/human_pose_estimation/assets/143717650/947e5bcb-b66f-4009-b199-be7b1d713775)
