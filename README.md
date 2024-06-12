@@ -8,7 +8,7 @@ MATLAB을 사용하여 googlenet, openpose 모델 활용 및 영상처리 코드
 |학번/이름|C015143 / 이수빈 |
 | ToolBox 사용 여부/ Add-on| Deep Learning, Computer Vision, Image processing Toolbox / Deep Learning Toolbox Converter for ONNX Model Format, Deep Learning Toolbox Model for GoogLeNet Network/ OpenPoseNet Network |
 | 구현 예제 site 주소| https://kr.mathworks.com/help/vision/ug/estimate-body-pose-using-deep-learning.html#EstimateBodyPoseUsingDeepLearningExample-3 <br> https://kr.mathworks.com/help/deeplearning/ug/classify-image-using-googlenet.html|
-| 문제 정의 |로봇 기술에 중요한 deep learning을 이용한 body pose 측정, Image processing and Computer Vision|
+| 문제 정의 |로봇 기술에 중요한 Mashine Vision <br> deep learning을 이용한 body pose 측정, Image processing and Computer Vision|
 | 방법론 | 1. openposenet 신경망을 이용한 input의 body pose를 측정 <br> 2. body pose에 shape을 넣어 skeleton을 픽토그램화 <br> 3. 이진영상 필터링으로 픽토그램만 남기고 흰 배경 처리 <br> 4. googlenet 신경망을 통해 사진의 스포츠 종목을 판단, 픽토그램 공 위치 결정|
 
 
