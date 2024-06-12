@@ -1,6 +1,6 @@
 # make_pictogram_human-pose-estimation 
 
-MATLAB을 사용하여 googlenet, openpose 모델 활용 및 영상처리 코드 개발
+googlenet, openpose 모델 활용 MATLAB 예제 코드에 추가적으로 영상처리 코드 개발
 
 |  | 멀티미디어신호처리 기말 1인 프로젝트 |
 | --- | --- |
