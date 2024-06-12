@@ -1,6 +1,7 @@
 # make_pictogram_human-pose-estimation
 
 MATLAB을 사용하여 googlenet, openpose 모델 활용 및 영상처리 코드 개발
+![image](https://github.com/subin111/make_pictogram_human-pose-estimation/assets/143717650/ad4cbd86-9417-44a3-8bdb-c26eb86f6557)
 
 ## 결과
   
