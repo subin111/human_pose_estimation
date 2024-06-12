@@ -1,6 +1,6 @@
 # make_pictogram_human-pose-estimation
 
-googlenet, openpose 모델 활용 및 영상처리 코드 개발
+MATLAB을 사용하여 googlenet, openpose 모델 활용 및 영상처리 코드 개발
 
 ## 결과
   
