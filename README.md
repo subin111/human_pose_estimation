@@ -5,15 +5,20 @@ MATLAB을 사용하여 googlenet, openpose 모델 활용 및 영상처리 코드
 |  |  |
 | --- | --- |
 | 제목 |Matlab Deep Learning & Computer Vision ToolBox를 활용한 pictogram maker |
-| *MCU*|C015143 / 이수빈 |
-| *AP*| Deep Learning, Computer Vision, Image processing Toolbox / 
-Deep Learning Toolbox Converter for ONNX Model Format, Deep Learning Toolbox Model for 
-GoogLeNet Network/ OpenPoseNet Network |
-| *IDE*| [<img src="https://img.shields.io/badge/Visual Studio-F2F29C?style=flat-square&logo=Visual Studio&logoColor=white"/>](https://kr.mathworks.com/help/vision/ug/estimate-body-pose-using-deep-learning.html#EstimateBodyPoseUsingDeepLearningExample-3) [<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt creator&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter Notebook-AEAE16?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2b%2b&logoColor=black"/> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0054FF?style=flat-square&logo=MATLAB&logoColor=white"/>](https://kr.mathworks.com/help/deeplearning/ug/classify-image-using-googlenet.html)|
-| *Server & DB*|<img src="https://img.shields.io/badge/Apache-97D6D9?style=flat-square&logo=Apache&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-65C2C7?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>|
-| *Version Control & Collaboration Tools*| <img src="https://img.shields.io/badge/Git-B2B2B2?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-737373?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Google Docs-303030?style=flat-square&logo=Google&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>|
-| *OS*|<img src="https://img.shields.io/badge/Windows11-F5C27F?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> |
-| *Platform & Library & Package*| <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white"/> 
+|학번/이름|C015143 / 이수빈 |
+| ToolBox 사용 여부/ Add-on| Deep Learning, Computer Vision, Image processing Toolbox / Deep Learning Toolbox Converter for ONNX Model Format, Deep Learning Toolbox Model for GoogLeNet Network/ OpenPoseNet Network |
+| 구현 예제 site 주소| "https://kr.mathworks.com/help/vision/ug/estimate-body-pose-using-deep-learning.html#EstimateBodyPoseUsingDeepLearningExample-3" "https://kr.mathworks.com/help/deeplearning/ug/classify-image-using-googlenet.html"|
+
+|  |  |
+| --- | --- |
+| 문제정의 |로봇 기술에 중요한 deep learning을 이용한 body pose 측정, Image processing and Computer 
+Vision (영상 )|
+| 방법론 | Step1 – openposenet 신경망을 이용한 input의 body pose를 측정
+Step2 – body pose에 shape을 넣어 skeleton을 픽토그램화
+Step3 – 이진영상 필터링으로 픽토그램만 남기고 흰 배경 처리
+Step4 – googlenet 신경망을 통해 사진의 스포츠 종목을 판단, 픽토그램 공 위치 결정|
+
+
 ## 결과
   
 * 축구 사진 결과
