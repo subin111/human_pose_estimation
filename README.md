@@ -15,6 +15,7 @@ MATLAB을 사용하여 googlenet, openpose 모델 활용 및 영상처리 코드
 ## 결과
   
 * 축구 사진 결과
+  
   <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/947e5bcb-b66f-4009-b199-be7b1d713775" width="350" height="450" />
   <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/0ece45f4-e127-4b44-9285-4799d4d1e232" width="350" height="450" />
   <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/d3ffea21-402f-4028-b7c7-d8529be1f759" width="350" height="450" />
