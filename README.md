@@ -11,12 +11,8 @@ MATLAB을 사용하여 googlenet, openpose 모델 활용 및 영상처리 코드
 
 |  |  |
 | --- | --- |
-| 문제정의 |로봇 기술에 중요한 deep learning을 이용한 body pose 측정, Image processing and Computer 
-Vision (영상 )|
-| 방법론 | Step1 – openposenet 신경망을 이용한 input의 body pose를 측정
-Step2 – body pose에 shape을 넣어 skeleton을 픽토그램화
-Step3 – 이진영상 필터링으로 픽토그램만 남기고 흰 배경 처리
-Step4 – googlenet 신경망을 통해 사진의 스포츠 종목을 판단, 픽토그램 공 위치 결정|
+| 문제정의 |로봇 기술에 중요한 deep learning을 이용한 body pose 측정, Image processing and Computer Vision|
+| 방법론 | Step1 – openposenet 신경망을 이용한 input의 body pose를 측정Step2 – body pose에 shape을 넣어 skeleton을 픽토그램화Step3 – 이진영상 필터링으로 픽토그램만 남기고 흰 배경 처리Step4 – googlenet 신경망을 통해 사진의 스포츠 종목을 판단, 픽토그램 공 위치 결정|
 
 
 ## 결과
