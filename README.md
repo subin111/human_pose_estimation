@@ -28,19 +28,12 @@ MATLAB을 사용하여 googlenet, openpose 모델 활용 및 영상처리 코드
   * 배구 사진 결과
 
     <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/8d45f7e2-db4f-408a-b05e-5ac9f71b1e2c" width="350" height="450" />
-
     <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/a797ef18-8ff2-4641-a8d0-6fd86853b143" width="350" height="450" />
-
     <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/ded12583-2a09-4b50-9449-e5d1ab676d08" width="350" height="450" />
-
     <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/a45ce7e0-54c6-47d3-b475-5c1ee1a7a8db" width="350" height="450" />
-
     <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/0d5222cd-27f7-4caf-92c5-cb1c2a5e1109" width="350" height="450" />
-
-    <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/74c88d34-949c-4aed-9825-67171f4c7864" width="350" height="450" />
-
+    <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/74c88d34-949c-4aed-9825-67171f4c7864" width="500" height="450" />
     <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/46f85b24-74e1-4d05-af28-5222c65743a6" width="350" height="450" />
-
     <img src="https://github.com/subin111/human_pose_estimation/assets/143717650/c47cbd6c-732b-4b88-9857-5549588ec874" width="350" height="450" />
 
 
